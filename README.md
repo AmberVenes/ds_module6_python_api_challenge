@@ -1,1 +1,1 @@
-# python_api_challenge
+This challenge focuses on learning how to create regression models, work with APIs, and utilize API keys for data retrieval. It involves using Geoapify to locate hotels for vacation spots and find specific points of interest based on location. The data is cleaned and processed to explore relationships between various weather parameters.
